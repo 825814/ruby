@@ -1,9 +1,16 @@
-array=[1,2,3]
+# array=[1,2,3]
+# puts array.class
+# puts array.join("*")
+
+# string="Hello"
+# puts string.class
+# puts string.join("*")
+
+array = [1,2,3]
 puts array.class
 puts array.join("*")
 
-string="Hello"
+string = "Hello"
 puts string.class
 puts string.join("*")
-
 
